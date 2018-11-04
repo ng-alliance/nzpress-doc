@@ -1,0 +1,1 @@
+export const menus = [{"link":"/introduce","title":"Introduce","language":""},{"link":"/structure","title":"Structure","language":""},{"link":"/i18n","title":"Internationalization","language":""},{"link":"/zh/introduce","title":"介绍","language":"zh"},{"link":"/zh/structure","title":"目录结构","language":"zh"},{"link":"/zh/i18n","title":"国际化","language":"zh"}];
